@@ -1,14 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.1.0</version>
-
+    <version>99.0.0</version>
     <url>
-        https://github.com/FyosDev/EventTracker/releases/download/v992.1.0/EVENT_TRACKER_V2.zip
+        https://github.com/FyosDev/EventTracker/releases/download/v2.1.0/EVENT_TRACKER_V2.zip
     </url>
-
-    <changelog>
-        https://github.com/FyosDev/EventTracker/releases
-    </changelog>
-
+    <changelog>Nouvelle version</changelog>
     <mandatory>false</mandatory>
 </item>
