@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<item>
+    <version>2.1.0</version>
+
+    <url>
+        https://github.com/FyosDev/EVENT_TRACKER_V2/releases/download/v2.1.0/EVENT_TRACKER_V2.zip
+    </url>
+
+    <changelog>
+        https://github.com/TON_PSEUDO/EVENT_TRACKER_V2/releases
+    </changelog>
+
+    <mandatory>false</mandatory>
+</item>
