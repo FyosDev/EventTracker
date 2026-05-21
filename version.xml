@@ -1,83 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <item>
-    <version>2.1.6</version>
 
-    <url>
-        https://github.com/FyosDev/EventTracker/releases/download/v2.1.6/EventTracker.zip
-    </url>
+<version>2.1.6</version>
 
-    <changelog>
-        <release>
-    <version>2.3.0</version>
+<url>
+    https://github.com/FyosDev/EventTracker/releases/download/v2.1.6/EventTracker.zip
+</url>
 
-```
-<title>Dashboard &amp; Analytics Update</title>
+<changelog>
 
-<features>
-    <feature>Ajout du suivi des billets volontaires</feature>
-    <feature>Ajout du chiffre d’affaires des billets volontaires</feature>
+    <title>Dashboard &amp; Analytics Update</title>
 
-    <feature>
-        Ajout des statistiques détaillées des types de billets :
-        - Pass 3 jours
-        - Billets Vendredi / Samedi
-        - Billets Samedi / Dimanche
-    </feature>
+    <features>
+        <feature>Ajout du suivi des billets volontaires</feature>
 
-    <feature>
-        Ajout des statistiques brunch :
-        - Nombre de brunchs
-        - CA brunch
-    </feature>
+        <feature>
+            Ajout du chiffre d’affaires des billets volontaires
+        </feature>
 
-    <feature>
-        Ajout des statistiques repas hors brunch :
-        - Nombre de repas
-        - CA repas
-    </feature>
-</features>
+        <feature>
+            Ajout des statistiques détaillées des types de billets :
+            Pass 3 jours,
+            Billets Vendredi / Samedi,
+            Billets Samedi / Dimanche
+        </feature>
 
-<ui>
-    <change>Refonte complète du dashboard d’accueil</change>
+        <feature>
+            Ajout des statistiques brunch :
+            Nombre de brunchs,
+            CA brunch
+        </feature>
 
-    <change>
-        Organisation des KPI par catégories :
-        - Revenus
-        - Billets
-        - Volontaires
-        - Repas
-    </change>
+        <feature>
+            Ajout des statistiques repas hors brunch :
+            Nombre de repas,
+            CA repas
+        </feature>
+    </features>
 
-    <change>Ajout d’accents visuels colorés par section</change>
-    <change>Amélioration générale de la lisibilité</change>
-</ui>
+    <ui>
+        <change>
+            Refonte complète du dashboard d’accueil
+        </change>
 
-<billets>
-    <change>Ajout des volontaires dans les statistiques billets</change>
+        <change>
+            Organisation des KPI par catégories :
+            Revenus,
+            Billets,
+            Volontaires,
+            Repas
+        </change>
 
-    <change>
-        Réorganisation automatique des catégories :
-        - Vendredi / Samedi
-        - Samedi / Dimanche
-        - Pass 3 jours
-        - Volontaires
-    </change>
+        <change>
+            Ajout d’accents visuels colorés par section
+        </change>
 
-    <change>Exclusion automatique des repas et brunchs des statistiques billets</change>
-    <change>Amélioration du graphique donut</change>
-</billets>
+        <change>
+            Amélioration générale de la lisibilité
+        </change>
+    </ui>
 
-<fixes>
-    <fix>Correction des calculs des totaux billets</fix>
-    <fix>Amélioration du traitement des exports Weezevent</fix>
-    <fix>Meilleure gestion des catégories de tickets</fix>
-    <fix>Divers correctifs mineurs et optimisations</fix>
-</fixes>
-```
+    <billets>
+        <change>
+            Ajout des volontaires dans les statistiques billets
+        </change>
 
-</release>
+        <change>
+            Réorganisation automatique des catégories :
+            Vendredi / Samedi,
+            Samedi / Dimanche,
+            Pass 3 jours,
+            Volontaires
+        </change>
 
-    </changelog>
+        <change>
+            Exclusion automatique des repas et brunchs des statistiques billets
+        </change>
 
-    <mandatory>false</mandatory>
+        <change>
+            Amélioration du graphique donut
+        </change>
+    </billets>
+
+    <fixes>
+        <fix>
+            Correction des calculs des totaux billets
+        </fix>
+
+        <fix>
+            Amélioration du traitement des exports Weezevent
+        </fix>
+
+        <fix>
+            Meilleure gestion des catégories de tickets
+        </fix>
+
+        <fix>
+            Divers correctifs mineurs et optimisations
+        </fix>
+    </fixes>
+
+</changelog>
+
+<mandatory>false</mandatory>
+
+
 </item>
