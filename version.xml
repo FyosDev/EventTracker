@@ -8,35 +8,6 @@
     https://github.com/FyosDev/EventTracker/releases/download/v2.1.6/EventTracker.zip
 </url>
 
-<changelog>
-    🚀 Dashboard &amp; Analytics Update
-
-    ✨ Nouveautés
-    - Ajout du suivi des billets volontaires
-    - Ajout du chiffre d’affaires des billets volontaires
-    - Ajout des statistiques détaillées des types de billets
-    - Ajout des statistiques brunch
-    - Ajout des statistiques repas hors brunch
-
-    🎨 Interface utilisateur
-    - Refonte complète du dashboard d’accueil
-    - Organisation des KPI par catégories
-    - Ajout d’accents visuels colorés par section
-    - Amélioration générale de la lisibilité
-
-    📊 Onglet Billets
-    - Ajout des volontaires dans les statistiques billets
-    - Réorganisation automatique des catégories
-    - Exclusion automatique des repas et brunchs
-    - Amélioration du graphique donut
-
-    🛠 Corrections &amp; améliorations
-    - Correction des calculs des totaux billets
-    - Amélioration du traitement des exports Weezevent
-    - Meilleure gestion des catégories de tickets
-    - Divers correctifs mineurs et optimisations
-</changelog>
-
 <mandatory>false</mandatory>
 
 </item>
