@@ -9,101 +9,34 @@
 </url>
 
 <changelog>
+    🚀 Dashboard &amp; Analytics Update
 
-    <title>Dashboard &amp; Analytics Update</title>
+    ✨ Nouveautés
+    - Ajout du suivi des billets volontaires
+    - Ajout du chiffre d’affaires des billets volontaires
+    - Ajout des statistiques détaillées des types de billets
+    - Ajout des statistiques brunch
+    - Ajout des statistiques repas hors brunch
 
-    <features>
-        <feature>Ajout du suivi des billets volontaires</feature>
+    🎨 Interface utilisateur
+    - Refonte complète du dashboard d’accueil
+    - Organisation des KPI par catégories
+    - Ajout d’accents visuels colorés par section
+    - Amélioration générale de la lisibilité
 
-        <feature>
-            Ajout du chiffre d’affaires des billets volontaires
-        </feature>
+    📊 Onglet Billets
+    - Ajout des volontaires dans les statistiques billets
+    - Réorganisation automatique des catégories
+    - Exclusion automatique des repas et brunchs
+    - Amélioration du graphique donut
 
-        <feature>
-            Ajout des statistiques détaillées des types de billets :
-            Pass 3 jours,
-            Billets Vendredi / Samedi,
-            Billets Samedi / Dimanche
-        </feature>
-
-        <feature>
-            Ajout des statistiques brunch :
-            Nombre de brunchs,
-            CA brunch
-        </feature>
-
-        <feature>
-            Ajout des statistiques repas hors brunch :
-            Nombre de repas,
-            CA repas
-        </feature>
-    </features>
-
-    <ui>
-        <change>
-            Refonte complète du dashboard d’accueil
-        </change>
-
-        <change>
-            Organisation des KPI par catégories :
-            Revenus,
-            Billets,
-            Volontaires,
-            Repas
-        </change>
-
-        <change>
-            Ajout d’accents visuels colorés par section
-        </change>
-
-        <change>
-            Amélioration générale de la lisibilité
-        </change>
-    </ui>
-
-    <billets>
-        <change>
-            Ajout des volontaires dans les statistiques billets
-        </change>
-
-        <change>
-            Réorganisation automatique des catégories :
-            Vendredi / Samedi,
-            Samedi / Dimanche,
-            Pass 3 jours,
-            Volontaires
-        </change>
-
-        <change>
-            Exclusion automatique des repas et brunchs des statistiques billets
-        </change>
-
-        <change>
-            Amélioration du graphique donut
-        </change>
-    </billets>
-
-    <fixes>
-        <fix>
-            Correction des calculs des totaux billets
-        </fix>
-
-        <fix>
-            Amélioration du traitement des exports Weezevent
-        </fix>
-
-        <fix>
-            Meilleure gestion des catégories de tickets
-        </fix>
-
-        <fix>
-            Divers correctifs mineurs et optimisations
-        </fix>
-    </fixes>
-
+    🛠 Corrections &amp; améliorations
+    - Correction des calculs des totaux billets
+    - Amélioration du traitement des exports Weezevent
+    - Meilleure gestion des catégories de tickets
+    - Divers correctifs mineurs et optimisations
 </changelog>
 
 <mandatory>false</mandatory>
-
 
 </item>
